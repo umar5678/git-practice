@@ -2,8 +2,8 @@ const hello = "Hello!, World"
 
 const age = 20
 
-const name = "Omar Farooq"
+const name1 = "Umar Farooq"
 
-function isAbove18() {
-    return age >= 18
+function isAbove20() {
+    return age >= 20
 }
